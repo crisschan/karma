@@ -1,0 +1,7 @@
+{
+  "oldProjectPath": "/Users/crisschan/workspace/PySpace/karma/target_project",
+  "newProjectPath": "/Users/crisschan/workspace/PySpace/karma/temp_project",
+  "source": "src/main/java",
+  "target": "target/classes",
+  "resources": "src/main/resources"
+}
